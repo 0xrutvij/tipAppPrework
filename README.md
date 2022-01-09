@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/0xrutvij/tipAppPrework/blob/main/prework.png' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/0xrutvij/tipAppPrework/blob/main/preworkTipster.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## License
 
