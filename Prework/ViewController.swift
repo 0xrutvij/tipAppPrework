@@ -15,8 +15,6 @@ class ViewController: UIViewController {
     @IBOutlet weak var totalLabel: UILabel!
     @IBOutlet weak var tipSlider: UISlider!
     @IBOutlet weak var tipPercentLabel: UILabel!
-    
-    
 
     
     @IBAction func otherTipPercent(_ sender: Any) {
@@ -62,6 +60,9 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        billAmountTextField.keyboardType = .decimalPad
+        billAmountTextField.becomeFirstResponder()
+        
     }
 
 
