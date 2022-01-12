@@ -101,6 +101,7 @@ class TipsterViewController: UIViewController {
         }
 
         otherTipPercent(self)
+        calcTip(self)
         billAmountTextField.becomeFirstResponder()
     }
 
